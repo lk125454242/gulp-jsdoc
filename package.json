@@ -1,0 +1,26 @@
+{
+  "name": "gulp-jsdoc",
+  "version": "1.0.0",
+  "description": "use gulp & jsdoc compile document index.html",
+  "main": "index.js",
+  "scripts": {
+    "doc": "serve -l 3000",
+    "build": "jsdoc /Users/duodiankeji/Documents/miniapp/workers -r"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lk125454242/gulp-jsdoc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lk125454242/gulp-jsdoc/issues"
+  },
+  "homepage": "https://github.com/lk125454242/gulp-jsdoc#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jsdoc3": "^2.0.0",
+    "jsdoc": "^3.5.5",
+    "serve": "^10.0.2"
+  }
+}
