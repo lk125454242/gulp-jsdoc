@@ -6,8 +6,6 @@
     "source": {
         "include": [
             "/Users/duodiankeji/Documents/miniapp/workers",
-            "/Users/duodiankeji/Documents/miniapp/pages/im",
-            "/Users/duodiankeji/Documents/miniapp/pages/imPages",
             "/Users/duodiankeji/Documents/miniapp/utils",
             "/Users/duodiankeji/Documents/miniapp/vendors"
         ],

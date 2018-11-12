@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "doc": "serve -l 3000",
-    "build": "jsdoc /Users/duodiankeji/Documents/miniapp/workers -r"
+    "build": "jsdoc -c ./conf.json -r"
   },
   "repository": {
     "type": "git",
